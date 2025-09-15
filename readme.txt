@@ -7,7 +7,7 @@ Project Name: EventSphere
 Team Name: SFC-Code Avengers
 React version: 19.1
 Tech Stack: MERN (React, Node.js) + MySQL
-website git repo url : npm run dev
+website live url : https://eventsphere-two.vercel.app/
 
 ===============================================================
 TEAM MEMBERS
